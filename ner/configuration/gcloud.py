@@ -1,5 +1,5 @@
 import os
-from zipfile import Path
+from pathlib import Path
 import time
 
 

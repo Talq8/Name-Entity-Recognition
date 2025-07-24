@@ -4,7 +4,7 @@ import dill
 import pickle
 import numpy as np
 import yaml
-from zipfile import Path
+from pathlib import Path
 from ner.constants import *
 from ner.exception import NerException
 from ner.logger import logging
